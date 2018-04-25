@@ -1,0 +1,32 @@
+1. Home 
+    - Header
+    - Slide
+    - Top Destination
+    - Featured Destination
+    - Video Dokumentasi
+    - Popular Destination
+    - Article Popular
+    - Footer
+2. Tour Package
+    - Local Tour
+    - International Tour
+    - Umrah & Haji
+    - Hiking
+3.  Perusahaan
+    - Manajemen Perjalanan Perusahaan
+4.  Promo
+5.  Order Tiket Pesawat Murah
+6.  User Login
+7.  Testimony
+8.  Instagram
+9.  Gallery & Video
+10. Blog
+11. Contact
+12. Quiz
+13. FAQ
+14. Join News Letter & Info Promotion
+15. Administrator
+16. User Login
+17. Payment gateway
+18. Order Online
+19. Android Application
